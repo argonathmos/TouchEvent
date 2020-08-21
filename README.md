@@ -10,4 +10,6 @@ https://www.w3schools.com/jsref/obj_touchevent.asp
 
 *GitHubPages links:*
 
+**Touch Screen only**
+
 https://argonathmos.github.io/TouchEvent/swipeMe/
